@@ -1,0 +1,12 @@
+{ "nc_version": 1.0, "nc_format": "json" },
+{
+  "serial": 20140109101638,
+  "ttl": 86400,
+  "contact": "support.namecast.net",
+  "data": {
+    "": {
+     "ns": [ "ns1.ncd.io", "ns2.ncd.io", "ns3.ncd.io" ],
+      "a": [["86.75.30.9",1]]
+    }
+  }
+}
